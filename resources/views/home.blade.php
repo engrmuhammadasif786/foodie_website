@@ -36,7 +36,7 @@
             <h4>{{trans('lang.medium')}} 2-topping* pizza</h4>
              <p>*Additional charge for premiume toppings. Minimum of 2 requierd. </p>
              <div class="ban-btn"><a href="#">{{trans('lang.order_now')}}</a> <span class="price">$32.99 <sup>$39.99</sup></span></div>
-             <!--<div class="ban-btn"><a href="{{ route('trending') }}">Order Now</a> <span class="price">$32.99 <sup>$39.99</sup></span></div>-->
+             <!-- <div class="ban-btn"><a href="{{ route('trending') }}">Order Now</a> <span class="price">$32.99 <sup>$39.99</sup></span></div> -->
          </div>
        </div>  
     </div> 

@@ -496,13 +496,13 @@ border-radius: 50px;
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#EC9378+0,e23744+100 */
     background: #EC9378;
     /* Old browsers */
-    background: -moz-linear-gradient(45deg, #EC9378 0%, #FF6637 100%);
+    background: -moz-linear-gradient(45deg, #EC9378 0%, #cc5809 100%);
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #EC9378 0%, #FF6637 100%);
+    background: -webkit-linear-gradient(45deg, #EC9378 0%, #cc5809 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #EC9378 0%, #FF6637 100%);
+    background: linear-gradient(45deg, #EC9378 0%, #cc5809 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EC9378', endColorstr='#FF6637', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EC9378', endColorstr='#cc5809', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
     ;
 }
@@ -511,13 +511,13 @@ border-radius: 50px;
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#EC9378+0,e23744+100 */
     background: #EC9378;
     /* Old browsers */
-    background: -moz-linear-gradient(45deg, #EC9378 0%, #FF6637 100%);
+    background: -moz-linear-gradient(45deg, #EC9378 0%, #cc5809 100%);
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #EC9378 0%, #FF6637 100%);
+    background: -webkit-linear-gradient(45deg, #EC9378 0%, #cc5809 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #EC9378 0%, #FF6637 100%);
+    background: linear-gradient(45deg, #EC9378 0%, #cc5809 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EC9378', endColorstr='#FF6637', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EC9378', endColorstr='#cc5809', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
     border-color: #EC9378;
 }
@@ -526,44 +526,44 @@ border-radius: 50px;
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#EC9378+0,e23744+100 */
     background: #EC9378;
     /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #EC9378 0%, #FF6637 100%);
+    background: -moz-linear-gradient(-45deg, #EC9378 0%, #cc5809 100%);
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg, #EC9378 0%, #FF6637 100%);
+    background: -webkit-linear-gradient(-45deg, #EC9378 0%, #cc5809 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg, #EC9378 0%, #FF6637 100%);
+    background: linear-gradient(135deg, #EC9378 0%, #cc5809 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EC9378', endColorstr='#FF6637', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EC9378', endColorstr='#cc5809', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
-    border-color: #FF6637;
+    border-color: #cc5809;
 }
 
 .btn-outline-primary {
-    color: #FF6637;
-    border-color: #FF6637;
+    color: #cc5809;
+    border-color: #cc5809;
 }
 
 .btn-outline-primary:hover {
     color: #ffffff;
     background: #EC9378;
     /* Old browsers */
-    background: -moz-linear-gradient(-45deg, #EC9378 0%, #FF6637 100%);
+    background: -moz-linear-gradient(-45deg, #EC9378 0%, #cc5809 100%);
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(-45deg, #EC9378 0%, #FF6637 100%);
+    background: -webkit-linear-gradient(-45deg, #EC9378 0%, #cc5809 100%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(135deg, #EC9378 0%, #FF6637 100%);
+    background: linear-gradient(135deg, #EC9378 0%, #cc5809 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EC9378', endColorstr='#FF6637', GradientType=1);
+    filter: progid: DXImageTransform.Microsoft.gradient(startColorstr='#EC9378', endColorstr='#cc5809', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
-    border-color: #FF6637;
+    border-color: #cc5809;
 }
 
 .text-primary {
-    color: #FF6637 !important;
+    color: #cc5809 !important;
     text-decoration: none !important;
 }
 
 a {
-    color: #FF6637;
+    color: #cc5809;
     text-decoration: none !important;
 }
 
@@ -574,7 +574,7 @@ p {
 
 .btn-link {
     font-weight: 400;
-    color: #FF6637;
+    color: #cc5809;
     text-decoration: none !important;
 }
 
@@ -630,7 +630,7 @@ p {
 }
 
 .list-card a:hover {
-    color: #FF6637;
+    color: #cc5809;
 }
 
 .list-card .star {
@@ -727,7 +727,7 @@ overflow: hidden;min-height: 35px;
 }
 
 .rating-stars .feather-star.star_active {
-    color: #FF6637;
+    color: #cc5809;
 }
 
 
@@ -829,8 +829,8 @@ overflow: hidden;min-height: 35px;
 
 .custom-control-input:checked~.custom-control-label::before {
     color: #fff;
-    border-color: #FF6637;
-    background-color: #FF6637;
+    border-color: #cc5809;
+    background-color: #cc5809;
 }
 
 
@@ -1467,7 +1467,7 @@ margin: auto;}
 .order-list tr th{font-size: 15px;border-bottom: 1px solid #dee2e6 !important;}
 .order-list tr td{font-size: 15px;}
 .order-list tr td.prod-name{padding-left: 15px;}
-.order-list tr td.price{font-size: 17px; color: #FF6637; font-weight: 700;}
+.order-list tr td.price{font-size: 17px; color: #cc5809; font-weight: 700;}
 .order-list td.ord-photo{max-width: 150px;width: 150px;}
 .order-list td.ord-photo img{width: 100%; object-fit: cover;}
 
@@ -1526,7 +1526,7 @@ cursor: pointer;left: 0;right: 0;top: 0;bottom: 0;}
 
 .header-main .takeaway-div input[type="checkbox"]:before{font-style: normal;font-variant: normal;text-transform: none;line-height: 1;position: absolute;top: 0;font-weight: 700;left: 0;opacity: 1;background: #EC9378;content: "";right: 0;bottom: 0;z-index: -1;border-radius: 5px;}
 
-.header-main .takeaway-div input[type="checkbox"]:checked:before{opacity: 1;background: #FF6637;}
+.header-main .takeaway-div input[type="checkbox"]:checked:before{opacity: 1;background: #cc5809;}
 
 .most_sale .list-card .list-card-body p.text-gray{text-overflow: initial !important;white-space: normal;word-break: break-word;position: relative;padding-left: 20px;overflow: visible;-webkit-box-orient: inherit;
 -webkit-line-clamp: inherit;}
@@ -1547,7 +1547,7 @@ box-shadow: none !important;padding: 11px 5px;}
 
 
 .offer-section .rating-stars .feather-star{color: #fff;}
-.feather-star.star_active{color: #FF6637;}
+.feather-star.star_active{color: #cc5809;}
 
 
 .header-right > .d-flex > .mr-4{margin-right: 15px !important;}

@@ -196,9 +196,9 @@
 			</p>
 		</div>
 	</section>
-	<div class="open-ticket-btn">
+	<!-- <div class="open-ticket-btn">
 		<a href="https://asiayeshit.com/" target="_blank"><i class="fa fa-ticket"></i> {{trans('lang.open_ticket')}}</a>
-	</div>
+	</div> -->
 </footer>
 
 <script type="text/javascript" src="{{asset('vendor/jquery/jquery.min.js')}}"></script>
